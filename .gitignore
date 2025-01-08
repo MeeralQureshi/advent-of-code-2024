@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# TXT files to ignore samples and input files from Advent of Code
+*.txt
+
 # C extensions
 *.so
 
